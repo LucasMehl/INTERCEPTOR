@@ -175,6 +175,7 @@ output/INTERCEPTOR/_internal/api-ms-win-core-errorhandling-l1-1-0.dll
 output/INTERCEPTOR/_internal/api-ms-win-core-file-l1-1-0.dll
 output/INTERCEPTOR/_internal/api-ms-win-core-file-l1-2-0.dll
 output/INTERCEPTOR/_internal/api-ms-win-core-file-l2-1-0.dll
+Base\output
 output/INTERCEPTOR/_internal/api-ms-win-core-handle-l1-1-0.dll
 output/INTERCEPTOR/_internal/api-ms-win-core-heap-l1-1-0.dll
 output/INTERCEPTOR/_internal/api-ms-win-core-interlocked-l1-1-0.dll
